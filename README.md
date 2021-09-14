@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZhenyeLee" alt="ZhenyeLee" /></a> </p>
 
-- :books: I’m currently learning **AWS Vue.JS and React**
+- :books: I’m currently learning **AWS, Vue.JS and React**
 
 - 👨‍💻 Look at my developer portfolio at <a href="https://zhenyelee.github.io/PersonalWebsite/" target="_blank">zhenyeli.com</a>
 
